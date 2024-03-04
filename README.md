@@ -1,3 +1,7 @@
 # Questify
+## Created by
+- Leslie Chan
+- Katleyn Starchuk
+- Parnell Tse
 
 Hi
