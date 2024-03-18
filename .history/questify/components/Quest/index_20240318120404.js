@@ -1,3 +1,3 @@
 export default function Quest() {
-	return <></>;
+    return()
 }
