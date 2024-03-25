@@ -1,0 +1,14 @@
+.main {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	padding: 6rem;
+	min-height: 100vh;
+	background-color: rgb(162, 202, 173);
+}
+
+body {
+	margin: 0;
+	background-color: pink;
+}

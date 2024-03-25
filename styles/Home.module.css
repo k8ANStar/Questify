@@ -1,4 +1,5 @@
 .main {
+<<<<<<< HEAD
   display: flex;
   flex-direction: column;
   justify-content: space-between;
@@ -8,3 +9,13 @@
   background-color: rgb(162, 202, 173);
 }
 
+=======
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: center;
+	padding: 6rem;
+	min-height: 100vh;
+	background-color: rgb(162, 202, 173);
+}
+>>>>>>> 5962771 (removed margins)
