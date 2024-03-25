@@ -1,0 +1,18 @@
+.nav {
+	display: flex;
+	list-style-type: none;
+	text-decoration: none;
+    padding: 3rem;
+    background-color: rgb(221, 246, 205);
+    
+}
+
+.home,
+.about,
+.settings {
+	text-decoration: none;
+	color: var(--black);
+	margin-right: 2rem;
+	margin-left: 0.5rem;
+	white-space: nowrap;
+}

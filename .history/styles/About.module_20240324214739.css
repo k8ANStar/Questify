@@ -1,0 +1,10 @@
+.cardList {
+	justify-content: space-between;
+	display: flex;
+	list-style-type: none;
+    padding-bottom: 3rem;
+}
+
+.list {
+    
+}

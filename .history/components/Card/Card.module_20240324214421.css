@@ -1,0 +1,10 @@
+.cardContainer {
+	border: 3px solid black;
+    display: grid;
+   
+    padding-bottom: 3rem;
+    	list-style-type: none;
+	
+	align-items: center;
+	text-decoration: none;
+}

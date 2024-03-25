@@ -1,0 +1,4 @@
+.cardList {
+	justify-content: space-between;
+	display: flex;
+}
