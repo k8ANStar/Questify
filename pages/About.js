@@ -22,7 +22,7 @@ export default function About() {
                 <>
                   Let's introduce Parnell, coming from the lovely city of Vancouver. 
                   <br />
-                  As a UX/UI Designer, Parnell brings a creative touch and a lot of heart to his work.
+                  As a Designer, Parnell brings a creative touch and a lot of heart to his work.
                   <br />
                   With a keen eye for detail, he enjoys exploring new ideas and crafting designs that resonate with people.
                   <br />
