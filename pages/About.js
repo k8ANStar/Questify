@@ -13,7 +13,16 @@ export default function About() {
             <Card name="Katelyn Starchuk" />
           </li>
           <li className={styles.cardTwo}>
-            <Card name="Leslie Chan" />
+            <Card 
+            name="Leslie Chan" 
+            description={
+              <>
+              Leslie a designer from Hong Kong speacialing in infusing modern creations with tradition.
+              In her spare time she enjoys playing and lisenting to music and getting lost in art. Exploring
+              unique ideas and bringing them to life.
+              </>
+            }
+            />
           </li>
           <li className={styles.cardThree}>
             <Card
