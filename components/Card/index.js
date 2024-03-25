@@ -1,7 +1,7 @@
 import styles from "./Card.module.css";
 import Image from "next/image";
 
-export default function Card() {
+export default function Card({ name, description }) {
 	return (
 		<div>
 			<section className={styles.cardContainer}>
@@ -12,8 +12,8 @@ export default function Card() {
 					height={120}
 				/>
 				<div className={styles.cardContents}>
-					<h2>Name of Creator</h2>
-					<p>Description of creator.</p>
+					<h2>{name}</h2>
+					<p>{description}</p>
 				</div>
 			</section>
 		</div>
