@@ -5,13 +5,21 @@
 	text-decoration: none;
 	box-shadow: 4px 4px gray;
 	background-color: whitesmoke;
-    
+   	flex-direction: column;
+	margin-left: 3%;
+	margin-right: 3%;
 }
+
 .image {
 	display: flex;
-	flex-grow: inherit;
+	width: 4em;
+	max-width: 4em;
+	height: 4em;
+	padding-top: 5%;
 }
-.cardContainer {
-	display: flex;
-	flex-direction: column;
+
+
+.cardContents{
+	padding-left: 10%;
+	padding-right: 10%;
 }

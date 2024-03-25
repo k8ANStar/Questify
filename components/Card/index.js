@@ -7,7 +7,7 @@ export default function Card({ name, description }) {
 			<section className={styles.cardContainer}>
 				<Image
 					className={styles.image}
-					src="/images/image1.jpeg"
+					src="/pig.png"
 					width={250}
 					height={120}
 				/>
