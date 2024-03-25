@@ -13,7 +13,3 @@
 ## Package Installed
 
 - next.js
-<<<<<<< HEAD
-
-=======
->>>>>>> 5962771 (removed margins)
